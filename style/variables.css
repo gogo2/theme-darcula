@@ -234,8 +234,8 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   /* Brand/accent */
 
-  --jp-brand-color0: var(--md-blue-700);
-  --jp-brand-color1: var(--md-blue-500);
+  --jp-brand-color0: var(--md-blue-300);
+  --jp-brand-color1: #2F65CA;
   --jp-brand-color2: var(--md-blue-300);
   --jp-brand-color3: var(--md-blue-100);
   --jp-brand-color4: var(--md-blue-50);
@@ -422,7 +422,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-mirror-editor-string-2-color: #6a8759;
   --jp-mirror-editor-meta-color: #bbb529;
   --jp-mirror-editor-qualifier-color: #6a8759;
-  --jp-mirror-editor-builtin-color: #ff9e59;
+  --jp-mirror-editor-builtin-color: #8888c6;
   --jp-mirror-editor-bracket-color: #a9b7c6;
   --jp-mirror-editor-tag-color: #629755;
   --jp-mirror-editor-attribute-color: #6897bb;
